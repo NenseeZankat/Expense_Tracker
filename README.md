@@ -43,7 +43,7 @@ To get the Expense Tracker project up and running on your local machine, follow 
    update-database
 
 5. **Run the Application**: Start the ASP.NET Core application.
-6. ## Authors
+ ## Authors
 
 - Amatulla Gajipurwala
 - Nensee Zankat
